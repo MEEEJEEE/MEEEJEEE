@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @MEEEJEEE
+- 👀 I’m interested in coding, and I have a strong interest in military and security studies.
+- 🌱 I do a double major in IT Engineering and Political Sciences & International Relations.
+- 💞️ My MBTI is ENTJ, known for strong leadership and strategic thinking.
+- 📫 How to reach me: mijilee0413@naver.com
+- 😄 Pronouns: She/Her
+- ⚡ I love exploring new cultures through travel!
+- 🔑 Fun fact: I'm part of the Air Force ROTC
