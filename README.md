@@ -4,6 +4,6 @@
 - 💼 As an intern at an international organization, I am responsible for the 'North Korean Human Rights Promotion and Youth Leader Development' initiative.
 - 💞️ My MBTI is ENTJ, known for strong leadership and strategic thinking.
 - ✈️ I love exploring new cultures through travel!
-- 📫 How to reach me: mijilee0413@naver.com
+- 📫 How to reach me: -----@----.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm part of the AIR FORCE ROTC!
