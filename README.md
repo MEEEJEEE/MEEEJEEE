@@ -7,3 +7,4 @@
 - 📫 How to reach me: -----@----.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm part of the AIR FORCE ROTC!
+- 👩🏻‍💻 My portfolio: https://silky-larkspur-442.notion.site/MIJI-s-Portfolio-18381cfbdf9a8043801ccab7bfb73baa
