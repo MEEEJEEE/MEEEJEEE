@@ -3,7 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E7,50:C9E8FF,100:FFFACD&height=200&section=header&text=Welcome%20to%20Miji%20Lee's%20GitHub!&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=IT%20Engineering%20×%20Political%20Science&descAlignY=58&descSize=16&descColor=ffffff&animation=fadeIn)
 
 [![Hits](https://komarev.com/ghpvc/?username=MEEEJEEE&color=ffb6c1&style=flat-square&label=profile+views)](https://github.com/MEEEJEEE)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/imagenative_vimo)
 
 </div>
 
@@ -18,7 +17,6 @@ major     : IT Engineering  ×  Political Science & International Relations
 grade     : Senior (8th semester)
 military  : Air Force ROTC
 pronouns  : She / Her
-contact   : mijilee0413@sookmyung.ac.kr
 ```
 
 - 🔭 Building **Sobicut** — impulsive spending detection & analysis service for college students `Backend`
@@ -47,20 +45,22 @@ contact   : mijilee0413@sookmyung.ac.kr
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 ## 📌 Projects
 
-| Project | Description | Stack | Period | Status |
-|---------|-------------|-------|--------|--------|
-| **[Auto-Attendance Protocol](https://github.com/MEEEJEEE/auto-attendance-protocol)** | LoRa 기반 자동 출결 시스템 — 위치 인식 체크인, 휴식 감지, 오픈 채팅, 결석 알림 | `LoRa` | 2026.03 – | 🔨 In Progress |
-| **[Sobicut](https://github.com/MEEEJEEE/sobicut)** | 대학생 충동 소비 감지 및 소비 분석 서비스 | `Java` `Spring` | 2026.03 – | 🔨 In Progress |
-| **[java_team_chip](https://github.com/MEEEJEEE/java_team_chip)** | 의류 관리 웹 서비스 — 코디 추천, 세탁 안내, 버추얼 스타일링, 커뮤니티 | `Java` | 2024.03 – 2024.07 | ✅ Completed |
-| **[Running_club](https://github.com/MEEEJEEE/Running_club)** | 러닝 클럽 웹 애플리케이션 | `HTML` `CSS` `JS` | 2024.12 | ✅ Completed |
-| **[web_mid](https://github.com/MEEEJEEE/web_mid)** | 홈페이지 구현 | `HTML` `CSS` | 2024.09 – 2024.12 | ✅ Completed |
+| Project | Description | Role | Stack | Period | Status |
+|---------|-------------|------|-------|--------|--------|
+| **[Auto-Attendance Protocol](https://github.com/MEEEJEEE/auto-attendance-protocol)** | LoRa 기반 자동 출결 시스템 — 위치 인식 체크인, 휴식 감지, 오픈 채팅, 결석 알림 | Control Unit | `LoRa` | 2026.03 – | 🔨 In Progress |
+| **[Sobicut](https://github.com/MEEEJEEE/sobicut)** | 대학생 충동 소비 감지 및 소비 분석 서비스 | Backend | `Java` `Spring` | 2026.03 – | 🔨 In Progress |
+| **[java_team_chip](https://github.com/MEEEJEEE/java_team_chip)** | 의류 관리 웹 서비스 — 코디 추천, 세탁 안내, 버추얼 스타일링, 커뮤니티 | Backend | `Java` | 2024.03 – 2024.07 | ✅ Completed |
+| **[Running_club](https://github.com/MEEEJEEE/Running_club)** | 러닝 클럽 웹 애플리케이션 | Personal · Frontend | `HTML` `CSS` `JS` | 2024.12 | ✅ Completed |
+| **[web_mid](https://github.com/MEEEJEEE/web_mid)** | 홈페이지 구현 | Personal · Frontend | `HTML` `CSS` | 2024.09 – 2024.12 | ✅ Completed |
 
 ---
 
@@ -86,6 +86,18 @@ contact   : mijilee0413@sookmyung.ac.kr
 ![GitHub Streak](https://streak-stats.demolab.com?user=MEEEJEEE&theme=tokyonight&hide_border=true)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=MEEEJEEE&theme=tokyonight&no-frame=true&row=1&column=6)
+
+</div>
+
+---
+
+## 📬 Contact
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mijilee0413@sookmyung.ac.kr)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/imagenative_vimo)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MEEEJEEE)
 
 </div>
 
