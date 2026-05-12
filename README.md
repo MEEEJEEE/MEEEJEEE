@@ -75,7 +75,7 @@ pronouns  : She / Her
 | 5 | 한국대학생 평화안보연구회 U-SPECK | 안보 포럼·컨퍼런스, 미국·UN 안보기관 방문 | 2023.04 – 2023.11 |
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -90,7 +90,7 @@ pronouns  : She / Her
 </div>
 
 ---
-
+-->
 ## 📬 Contact
 
 <div align="center">
