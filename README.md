@@ -57,7 +57,7 @@ pronouns  : She / Her
 | Project | Description | Role | Stack | Period | Status |
 |---------|-------------|------|-------|--------|--------|
 | **[Auto-Attendance Protocol](https://github.com/MEEEJEEE/auto-attendance-protocol)** | LoRa 기반 자동 출결 시스템 — 위치 인식 체크인, 휴식 감지, 오픈 채팅, 결석 알림 | Control Unit | `LoRa` | 2026.03 – | 🔨 In Progress |
-| **[Sobicut](https://github.com/MEEEJEEE/sobicut)** | 대학생 충동 소비 감지 및 소비 분석 서비스 | Backend | `Java` `Spring` | 2026.03 – | 🔨 In Progress |
+| **[Sobicut](https://github.com/yoojiwon28/sobicut)** | 대학생 충동 소비 감지 및 소비 분석 서비스 | Backend | `Java` `Spring` | 2026.03 – | 🔨 In Progress |
 | **[java_team_chip](https://github.com/MEEEJEEE/java_team_chip)** | 의류 관리 웹 서비스 — 코디 추천, 세탁 안내, 버추얼 스타일링, 커뮤니티 | Backend | `Java` | 2024.03 – 2024.07 | ✅ Completed |
 | **[Running_club](https://github.com/MEEEJEEE/Running_club)** | 러닝 클럽 웹 애플리케이션 | Personal · Frontend | `HTML` `CSS` `JS` | 2024.12 | ✅ Completed |
 | **[web_mid](https://github.com/MEEEJEEE/web_mid)** | 홈페이지 구현 | Personal · Frontend | `HTML` `CSS` | 2024.09 – 2024.12 | ✅ Completed |
